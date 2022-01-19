@@ -1,11 +1,11 @@
-Title: Ashwini Uchit
+title: Ashwini Uchit
 logo: "/profile.jpg?raw=true"
 description: >
-Senier Consultant
-<br><br>
-<a href="mailto:ashwini.uchit.cs@gmail.com">ashwini.uchit.cs@gmail.com</a>
-<br>
-<a href="https://www.linkedin.com/in/ashwiniuchit/">LinkedIn Profile</a>
-<br>
-<a href="https://www.github.com/ashwiniuchit/">Github</a>
+  Senier Consultant
+  <br><br>
+  <a href="mailto:ashwini.uchit.cs@gmail.com">ashwini.uchit.cs@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/ashwiniuchit/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.github.com/ashwiniuchit/">Github</a>
 theme: jekyll-theme-minimal
